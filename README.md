@@ -66,4 +66,7 @@ end code block.
 
 취소선: ~~cancelline~~
 
-![Alt text](https://user-images.githubusercontent.com/86451206/123567069-4e47f080-d7fc-11eb-9686-db557d4c8d7a.jpg"Optional title")
+![Erin-Outdoors00](https://user-images.githubusercontent.com/86451206/123567069-4e47f080-d7fc-11eb-9686-db557d4c8d7a.jpg)
+
+<img src="https://user-images.githubusercontent.com/86451206/123567069-4e47f080-d7fc-11eb-9686-db557d4c8d7a.jpg" width="320px" height="240px"
+title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
