@@ -15,6 +15,11 @@
 >>> 공학커뮤니케이션 입니다.
 >>> This is a first blockqute
 
+```
+공학커뮤니케이션
+손 쉽게 만들 수 있는
+코드블럭
+```
 
 * 1단계
     - 2단계
@@ -37,3 +42,26 @@ end code block
 This is a normal paragraph:
 This is a code block.
 end code block.
+
+* * *
+안녕하세요
+***
+공학커뮤니케이션
+*****
+20171112
+- - -
+컴퓨터공학과
+
+---------------------------------------
+김찬진 입니다
+* * *
+
+기울임: *single asterisks*
+
+기울임: _single underscores_
+
+진하게: **double asterisks**
+
+진하게: __double underscores__
+
+취소선: 
