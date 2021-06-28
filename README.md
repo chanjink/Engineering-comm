@@ -86,6 +86,9 @@ Link: [Google][googlelink]
 이메일링크: <lhotseshare@gmail.com>
 
 [Text to display][identifier] will display a link
-[identifier]:
-[This link]
-[this link]:
+
+[identifier]:https://lms.andong.ac.kr/ilos/main/main_form.acl
+
+[This link] will do the same as well. It works as the identifier itself
+
+[this link]:https://lms.andong.ac.kr/ilos/main/main_form.acl
