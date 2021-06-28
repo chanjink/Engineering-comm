@@ -66,7 +66,13 @@ end code block.
 
 취소선: ~~cancelline~~
 
-![Erin-Outdoors00](https://user-images.githubusercontent.com/86451206/123567069-4e47f080-d7fc-11eb-9686-db557d4c8d7a.jpg)
+![1512355898117995](https://user-images.githubusercontent.com/86451206/123567545-5eac9b00-d7fd-11eb-8ce2-c0d1ebeacb63.jpg)
 
-<img src="https://user-images.githubusercontent.com/86451206/123567069-4e47f080-d7fc-11eb-9686-db557d4c8d7a.jpg" width="320px" height="240px"
+<img src="https://user-images.githubusercontent.com/86451206/123567545-5eac9b00-d7fd-11eb-8ce2-c0d1ebeacb63.jpg" width="320px" height="240px"
 title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
+
+| | 이름 | 나이 | 생일 |
+| :-: | :-: | -: | :- |
+| 1 | 홍길동 | 23 | 4/2 |
+| 2 | *짜장형* | 32 | 2/23|
+| 3 | __뿡뿡이__ | 51 | ~~9/13~~ |
