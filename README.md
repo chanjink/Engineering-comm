@@ -76,3 +76,16 @@ title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
 | 1 | 홍길동 | 23 | 4/2 |
 | 2 | *짜장형* | 32 | 2/23|
 | 3 | __뿡뿡이__ | 51 | ~~9/13~~ |
+
+Link: [Google][googlelink]
+
+[googlelink]: https://google.com "Go google"
+
+외부링크: <http://naver.com/>
+ 
+이메일링크: <lhotseshare@gmail.com>
+
+[Text to display][identifier] will display a link
+[identifier]:
+[This link]
+[this link]:
