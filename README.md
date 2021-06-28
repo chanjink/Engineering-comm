@@ -64,4 +64,4 @@ end code block.
 
 진하게: __double underscores__
 
-취소선: 
+취소선: ~~cancelline~~
