@@ -26,4 +26,4 @@
      - 깃허브(GitHub) : 
 
 * __팀 블로그(Team Blog) or 깃허브(GitHub)__
-     - 숫자 맞추기 팀 프로젝트(Up and Down) : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
+     - 숫자 맞추기 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
