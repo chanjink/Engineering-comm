@@ -1,94 +1,29 @@
-# Engineering-comm
-## Engineering-comm
-### Engineering-comm
-#### Engineering-comm
-##### Engineering-comm
-###### Engineering-comm
+# _How to contact?_
 
++ __E-mail__ : 3760kjh@naver.com / kcj1539@gmail.com 
 
-> 안녕하세요
->> 공학커뮤니케이션 입니다.
->>> This is a first blockqute
+# _Profile_
 
-> 안녕하세요
-> + 저는
->>> 공학커뮤니케이션 입니다.
->>> This is a first blockqute
++ __Nationality__ : Republic of Korea
++ __Birth__ : 1998.07.05
++ __Language__ : Korean, English
++ __Hobby__ : Playing football, Working out, Writing, Watching movies and ect
 
-```
-공학커뮤니케이션
-손 쉽게 만들 수 있는
-코드블럭
-```
+# _Specaility_
 
-* 1단계
-    - 2단계
-        + 3단계
-            + 4단계
-     
-* 빨강
-  * 녹색
-    * 파랑
++ __Major__ : Computer Engineering
++ __University__ : Andong University ([ANU](https://www.andong.ac.kr/main/))
++ __Computer Language__ : C/C++, Java
++ __MCU__ : Arduino, Quartus Prime(Altera)
 
-[들여 쓰기 - 1줄 띄우기]
+# _Website_
 
-This is a normal paragraph:
+* __개인 블로그(Personal Blog)__
 
-This is a code block.
+     - 네이버(Naver) : [3760kjh의 블로그](https://blog.naver.com/3760kjh)
+     - 카카오(Kakao) :
+     - 유튜브(Youtube) : 
+     - 깃허브(GitHub) : 
 
-end code block
-
-[들여 쓰기 - 1줄 띄우지 않기]
-This is a normal paragraph:
-This is a code block.
-end code block.
-
-* * *
-안녕하세요
-***
-공학커뮤니케이션
-*****
-20171112
-- - -
-컴퓨터공학과
-
----------------------------------------
-김찬진 입니다
-* * *
-
-기울임: *single asterisks*
-
-기울임: _single underscores_
-
-진하게: **double asterisks**
-
-진하게: __double underscores__
-
-취소선: ~~cancelline~~
-
-![1512355898117995](https://user-images.githubusercontent.com/86451206/123567545-5eac9b00-d7fd-11eb-8ce2-c0d1ebeacb63.jpg)
-
-<img src="https://user-images.githubusercontent.com/86451206/123567545-5eac9b00-d7fd-11eb-8ce2-c0d1ebeacb63.jpg" width="320px" height="240px"
-title="px(픽셀) 크기 설정" alt="Github_fork"></img><br/>
-
-| | 이름 | 나이 | 생일 |
-| :-: | :-: | -: | :- |
-| 1 | 홍길동 | 23 | 4/2 |
-| 2 | *짜장형* | 32 | 2/23|
-| 3 | __뿡뿡이__ | 51 | ~~9/13~~ |
-
-Link: [Google][googlelink]
-
-[googlelink]: https://google.com "Go google"
-
-외부링크: <http://naver.com/>
- 
-이메일링크: <lhotseshare@gmail.com>
-
-[Text to display][identifier] will display a link
-
-[identifier]:https://lms.andong.ac.kr/ilos/main/main_form.acl
-
-[This link] will do the same as well. It works as the identifier itself
-
-[this link]:https://lms.andong.ac.kr/ilos/main/main_form.acl
+* __팀 블로그(Team Blog) or 깃허브(GitHub)__
+     - 숫자 맞추기 팀 프로젝트(Up and Down) : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
