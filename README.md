@@ -20,7 +20,7 @@
 
 * __개인 블로그(Personal Blog)__
 
-     - 네이버(Naver) : [3760kjh의 블로그](https://blog.naver.com/3760kjh)
+     - 네이버(Naver) : [3760kjh님의 블로그](https://blog.naver.com/3760kjh)
      - 카카오(Kakao) :
      - 유튜브(Youtube) : 
      - 깃허브(GitHub) : 
