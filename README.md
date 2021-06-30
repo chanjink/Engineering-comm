@@ -64,5 +64,5 @@
      - 네이버(Naver) : [3760kjh님의 블로그](https://blog.naver.com/3760kjh)
      - 깃허브(GitHub) : [chanjink님의 깃허브](https://github.com/chanjink)
 
-* __팀 블로그(Team Blog) or 깃허브(GitHub)__
+* __팀 블로그(Team Blog)
      - 숫자 맞추기 게임 팀 프로젝트 : [Up and Down](https://blog.naver.com/lsk9481/222364666614)
