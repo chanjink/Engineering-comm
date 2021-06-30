@@ -7,7 +7,7 @@
 # _목차 (Chapter)_
 
 + [소개](https://github.com/chanjink/Engineering-comm/blob/main/README.md#profile)
-+ [교육]
++ [교육](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EA%B5%90%EC%9C%A1-education)
 + [자주 가는 사이트]
 + [나의 장점]
 + [경력]
