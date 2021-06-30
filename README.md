@@ -3,12 +3,12 @@
 > #### 열정 ! 열정 ! 열정 !
 > 
 
-### _How to Contact_
+### _😃How to Contact😃_
 
 3760kjh@naver.com / kcj1539@gmail.com 
 
 
-# _목차 (Chapter)_
+# _📌목차 (Chapter)_
 
 + __[소개 (Introduce)](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EC%86%8C%EA%B0%9C-introduce)__
 + __[교육 (Education)](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EA%B5%90%EC%9C%A1-education)__
@@ -17,7 +17,7 @@
 + __[경력 (Specaility)](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EA%B2%BD%EB%A0%A5-specaility)__
 + __[웹사이트 (Website)](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-website)__
 
-# _소개 (Introduce)_
+# _🙋‍♂️소개 (Introduce)_
 
 ```
 안녕하세요 저는 안동대학교 컴퓨터공학과 재학중인 김찬진입니다.
@@ -27,7 +27,7 @@
 저의 단점은 남의 부탁을 잘 거절하지 못하여 곤란한 일이 생길 때가 있습니다.
 ```
 
-# _교육 (Education)_
+# _📖교육 (Education)_
 
 | | 학교 | 기간 | 
 | :-: | :-: | :-: | 
@@ -36,13 +36,13 @@
 | 3 | 김천성의중학교 | 2011/03 ~ 2014/01 | 
 | 4 | 김천동신초등학교 | 2006/03 ~ 2011/01 | 
 
-# _자주 가는 사이트 (Usually Visited Sites)_
+# _🧾자주 가는 사이트 (Usually Visited Sites)_
 
 + http://www.cprogramming.com/
 + https://www.learn-c.org/
 + http://www.csharpstudy.com/CSharp/CSharp-Intro.aspx
 
-# _나의 장점 (Merits)_
+# _👍나의 장점 (Merits)_
 
 1. 빠른 학습력을 가지고 있다.
 2. 매사에 긍정적이다.
@@ -50,14 +50,14 @@
 4. 부족한 점을 극복하려고 노력한다.
 5. 나 자신을 사랑한다.
 
-# _경력 (Specaility)_
+# _🖥경력 (Specaility)_
 
 + __전공__ : 컴퓨터공학과
 + __대학__ : 안동대학교 ([ANU](https://www.andong.ac.kr/main/))
 + __컴퓨터 언어__ : C/C++, Java
 + __MCU__ : Arduino, Quartus Prime(Altera)
 
-# _웹사이트 (Website)_
+# _📄웹사이트 (Website)_
 
 * __개인 블로그(Personal Blog)__
 
