@@ -46,14 +46,14 @@
 4. 부족한 점을 극복하려고 노력한다.
 5. 나 자신을 사랑한다.
 
-# _경력 (Specaility__
+# _경력 (Specaility)_
 
 + __전공__ : 컴퓨터공학과
 + __대학__ : 안동대학교 ([ANU](https://www.andong.ac.kr/main/))
 + __컴퓨터 언어__ : C/C++, Java
 + __MCU__ : Arduino, Quartus Prime(Altera)
 
-# _웹사이트_
+# _웹사이트 (Website)_
 
 * __개인 블로그(Personal Blog)__
 
