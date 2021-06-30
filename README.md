@@ -10,8 +10,8 @@
 + [교육](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EA%B5%90%EC%9C%A1-education)
 + [자주 가는 사이트](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EC%9E%90%EC%A3%BC-%EA%B0%80%EB%8A%94-%EC%82%AC%EC%9D%B4%ED%8A%B8-usually-visited-sites)
 + [나의 장점](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EB%82%98%EC%9D%98-%EC%9E%A5%EC%A0%90-merits)
-+ [경력]
-+ [SW Language]
++ [경력](https://github.com/chanjink/Engineering-comm/blob/main/README.md#%EA%B2%BD%EB%A0%A5-specaility)
++ [웹사이트]
 
 # _소개 (Introduce)_
 
